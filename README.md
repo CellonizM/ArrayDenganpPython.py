@@ -1,2 +1,2 @@
-#Struktur Data
+# StrukturData
 Mata kuliah struktur data 
